@@ -1,0 +1,49 @@
+*{
+    padding : 0;
+    margin : 0;
+    font-size: 2vw;
+}
+.j{
+    display:flex;
+    justify-content : center;
+    align-items: center;
+}
+.box{
+   margin-top:10vh;
+    width: 70%;
+    padding:5vh;
+    justify-content : center;
+    border: 0.5vw solid black;
+    border-radius:2vw;
+}
+h2{
+    font-size : 5vw;
+    text-align:center;
+    margin-bottom:5vh ;
+}
+
+input{
+   align-items : center;
+   width:100%;
+   height:5vh;
+   margin : 1vh;
+   border-radius: 2vw;
+}
+button{
+    width:100%;
+    height: 4vh;
+    margin:1vh;
+    margin-top:2vh;
+    border-radius: 3vw;
+    background-color:#4077ff;
+    color:white;
+}
+#forget{
+   margin:2vw ;
+   font-size:2vw;
+}
+p{
+    margin:2vh;
+    margin-top:10vh;
+    text-align:center;
+}
